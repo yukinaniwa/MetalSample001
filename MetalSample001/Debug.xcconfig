@@ -1,0 +1,13 @@
+//
+//  Debug.xcconfig
+//  MetalSample001
+//
+//  Created by yuki naniwa on 2019/07/12.
+//  Copyright © 2019 yuki naniwa. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PRODUCT_NAME=MTL001-Dev
+
